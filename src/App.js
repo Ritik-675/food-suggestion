@@ -4,12 +4,12 @@ import { useState } from "react";
 
 var foodPlaces = {
   "Lajpat Nagar": [
-    { name: "Dolma Aunty Momo", description: "since 1995" },
+    { name: "Sandoz", description: "One of the best restauraunt" },
     { name: "Qds", description: "North Indian, Thai and Italian cuisines" }
   ],
-  Dwarka: [
-    { name: "Raju chur chur Naan", description: "since 2010" },
-    { name: "KC Momos", description: "since 2014" }
+  "Defence Colony": [
+    { name: "Oak", description: "Cafe & Bar" },
+    { name: "Meraki", description: "Cafe & Bar" }
   ],
   "New Friends Colony": [
     { name: "Al Bake", description: "serve good mughlai" },
