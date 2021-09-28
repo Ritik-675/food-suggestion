@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+.heading {
+  background-color: gray;
+  height: 15vh;
+  padding: 2rem 1.5rem;
+  margin-bottom: 10vh;
+}
+body {
+  background: #fef3c7;
+}
+.places:hover {
+  background: #fef3c7;
+}
+
+.boxes {
+  height: 50px;
+}
