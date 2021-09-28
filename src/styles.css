@@ -14,6 +14,7 @@
 }
 body {
   background: #fef3c7;
+  background-image: url("./food.jpg");
 }
 .places:hover {
   background: #fef3c7;
